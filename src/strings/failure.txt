@@ -1,0 +1,7 @@
+R"(
+<!DOCTYPE html>
+    <html>
+        <head><title>Error!</title></head>
+        <body>We couldn't find a token. Please try running the app again.</body>
+    </html>
+)"

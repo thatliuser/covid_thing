@@ -1,0 +1,20 @@
+R"(</td>
+      </tr>
+      <tr>
+      <th style="font-family: Roboto, arial, sans-serif; font-size: 38.5px; font-weight: bold; text-align: center; height: 70px;" >
+        7:24 AM
+      </th>
+      </tr>
+    </table>
+    <p>
+      You are cleared to access UC Davis campus sites. Please save or print this approval for use on this day. You may be asked to present it at a campus facility, classroom, event, or when obtaining services. Thank you for completing the daily symptom survey and helping reduce the spread of the coronavirus in the UC Davis community.
+<P>
+As a reminder, face coverings are required for indoors and on mass transit for everyone, regardless of vaccination status. If you are unvaccinated, you must also wear face coverings outdoors in crowded spaces.
+<P>
+Please reach out if you need help. For medical visits, you can schedule an appointment via <a href="https://hem.ucdavis.edu">Health-e-Messaging</a> or speak with a nurse during normal business hours or the after-hours nurse advice service by calling 530-752-2349. For mental health visits, please review the <a href="https://ucdavis.box.com/s/4bhfkt7106ikz505p8b030phtdfni6ce">COVID-19 Mental Health Resource Flyer</a> for more information about mental health appointments, crisis support and self-care. Text 'RELATE' to 741741 for free, immediate, and confidential crisis support by text message.
+<P>
+Please note: <a href="https://campusready.ucdavis.edu/testing-response/contact-tracing#close">Close Contacts</a> who are fully vaccinated and remain asymptomatic (and don't receive a positive test result) will receive an Approved status and are not required to quarantine.
+
+
+  </body>
+</html>)"

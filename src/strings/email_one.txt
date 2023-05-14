@@ -1,0 +1,13 @@
+R"(<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="color-scheme" content="light dark">
+    <meta name="supported-color-schemes" content="light dark">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>UC Davis Daily Symptom Survey</title>
+  </head>
+  <body>
+    <table role="presentation" cellspacing="0" cellpadding="0" width="100%">
+            <tr>
+      <th style="font-family: Roboto, arial, sans-serif; font-size: 38.5px; font-weight: bold; text-align: center; height: 70px; background-color: #2ECC71;" >
+        )"
