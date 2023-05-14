@@ -5,10 +5,10 @@ when I was too lazy to fill them out due to bad WiFi (and health servers).
 This isn't runnable without setting up a Google app endpoint, but I don't feel like documenting it.
 You should be able to figure out how it works based on what files are missing from `strings/` (in the gitignore).
 
-# PSA
+## PSA
 Don't use WinHttp or HttpApi. They both suck and are really unintuitive as HTTP client and server libraries.
 
-# Code structure
+## Code structure
 main.cxx:
 - Requests OAuth token: from refresh if available, otherwise uses initial OAuth logic.
 - Sends email
@@ -25,5 +25,5 @@ email.cxx:
 - Base64 encodes it with some WinAPI routine
 - Sends it off to Google's Gmail API
 
-# Output
+## Output
 ![Resultant email](./output.png)
